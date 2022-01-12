@@ -30,31 +30,31 @@ Plus, you can output the number of pageviews to your visitors, by using the shor
 
 = How do I get a Google Analytics account? =
 
-ANSWER
+You can easily set up a Google Analytics account with any Google Account. See this [support article](https://support.google.com/analytics/answer/1008015?hl=en) from Google.
 
 = How do I get a Google API token? =
 
-ANSWER
+You will need a JSON API Token from [Google Cloud Platform](https://console.cloud.google.com/apis/). See the [quick start guide](https://dan-p.net/wordpress-plugins/danp-google-analytics-pageview-sync).
 
 = How do I grant access to my Google Analytics profile? =
 
-ANSWER
+You need to grant your Google Cloud Platform Service Account with permissions in Google Analytics. See the [quick start guide](https://dan-p.net/wordpress-plugins/danp-google-analytics-pageview-sync).
 
 = How do I get a Google Analytics "Profile ID"? =
 
-ANSWER
+Login to Google Analytics and click Admin. See the [quick start guide](https://dan-p.net/wordpress-plugins/danp-google-analytics-pageview-sync) for more information.
 
 = Where do I enter my API token? =
 
-ANSWER
+A new page is created in the WordPress Dashboard called 'Google Analytics Pageview Sync'.
 
 = How do I change plugin settings? =
 
-ANSWER
+A new page is created in the WordPress Dashboard called 'Google Analytics Pageview Sync'. You can enter your Profile ID and upload your JSON API Key there.
 
 = How do I start syncing data? =
 
-ANSWER
+A new page is created in the WordPress Dashboard called 'Google Analytics Pageview Sync'. You can start a bulk update there and update the settings to automatically sync pageviews either daily or weekly.
 
 
 == Screenshots ==
